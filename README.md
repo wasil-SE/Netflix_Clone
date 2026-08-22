@@ -18,7 +18,7 @@ A responsive **Netflix Clone** built with **HTML and CSS**, inspired by Netflix'
 
 ### Desktop
 
-![Netflix Clone Desktop](screenshots/screenshot-desktop.png)
+![Netflix Clone Desktop](Screenshots/screenshot-desktop.png)
 
 
 ## 🚀 Features
