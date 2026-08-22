@@ -41,21 +41,23 @@ A responsive **Netflix Clone** built with **HTML and CSS**, inspired by Netflix'
 
 ## 📁 Project Structure
 
+```text
 NETFLIX_CLONE/
 │
 ├── Images/
-│   └── ...movie and UI images
+│   └── Movie and UI images
 │
 ├── screenshots/
 │   ├── screenshot-desktop.png
 │   ├── ON iPhone 16 Pro Max.png
 │   ├── iPadPro shot.png
-│   └── ... And More
+│   └── ... and more
 │
 ├── index.html
 ├── style.css
+├── script.js
 └── README.md
-└──script.js
+```
 
 ## 🎯 Purpose
 
